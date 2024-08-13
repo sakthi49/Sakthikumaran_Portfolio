@@ -17,5 +17,7 @@ Python, R, SQL , Power BI , Tableau , Statistics, Machine Learning , Deep Learni
 ## Tech Stack
 ![image](https://github.com/sakthi49/Sakthikumaran_Portfolio/assets/97421941/fb359acd-db1a-458d-b06a-38903a3319b0)
 
-
+## Projects
+1. SQLBOT(Chinook DB) https://github.com/sakthi49/SQL_BOT.git
+2. PDFChatbot
 
