@@ -34,7 +34,7 @@ Solving
 
 ## Projects
 1. SQLBOT(Chinook DB) https://github.com/sakthi49/SQL_BOT.git
-2. PDFChatbot
+2. PDFChatbot https://github.com/sakthi49/pdfchatbot.git
 3. US Visa Approval Status Prediction ( Model Building , MLOPS Pipeline creation with local Deployment using FASTAPI) https://github.com/sakthi49/MLOPS_Production_ready_project
 
 
