@@ -12,7 +12,22 @@
 
 
 ## 🛠 Skills
-Python, R, SQL , Power BI , Tableau , Statistics, Machine Learning , Deep Learning, GenAI, MLOPS
+Machine Learning: Linear & Logistic Regression, Decision Tree, Random Forest, KNN, Naive Bayes,
+Gradient Boosting, Ada Boosting, Ridge & Lasso Regression, K-means & Hierarchical Clustering, XG
+Boost.
+Deep Learning: ANN,RNN,Transformers,Bert,LSTM
+Time Series: ARIMAX,Exponential Smoothening,PROPHET
+NLP:Sentiment Analysis,NER,POS Tag,Text Summarization
+Languages: Python, R & SQL
+Packages:Scikit-Learn,Pandas,Numpy,NLTK,TextBlob,Opencv,Pytorch,Tensorflow,BeautifulSoup
+Web Development: Flask,Streamlit
+Cloud Deployment: Heroku,Git
+MLOPS: DVC
+Tools: Jupyter Notebook, Jupyter Lab,VS Code,Colab,Power BI,Tableau
+GenAI: RAG
+Other Hard Skills: Customer Segmentation, Data Mining
+Soft Skills:Easily Adaptable, Teamwork, Leadership, Analytical Skills, Skilled Multi-tasker, Problem
+Solving
 
 ## Tech Stack
 ![image](https://github.com/sakthi49/Sakthikumaran_Portfolio/assets/97421941/fb359acd-db1a-458d-b06a-38903a3319b0)
@@ -21,4 +36,5 @@ Python, R, SQL , Power BI , Tableau , Statistics, Machine Learning , Deep Learni
 1. SQLBOT(Chinook DB) https://github.com/sakthi49/SQL_BOT.git
 2. PDFChatbot
 3. US Visa Approval Status Prediction ( Model Building , MLOPS Pipeline creation with local Deployment using FASTAPI) https://github.com/sakthi49/MLOPS_Production_ready_project
+
 
