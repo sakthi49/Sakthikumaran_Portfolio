@@ -12,21 +12,21 @@
 
 
 ## 🛠 Skills
-Machine Learning: Linear & Logistic Regression, Decision Tree, Random Forest, KNN, Naive Bayes,
-Gradient Boosting, Ada Boosting, Ridge & Lasso Regression, K-means & Hierarchical Clustering, XG
+- Machine Learning: Linear & Logistic Regression, Decision Tree, Random Forest, KNN, Naive Bayes,
+- Gradient Boosting, Ada Boosting, Ridge & Lasso Regression, K-means & Hierarchical Clustering, XG
 Boost.
-Deep Learning: ANN,RNN,Transformers,Bert,LSTM
-Time Series: ARIMAX,Exponential Smoothening,PROPHET
-NLP:Sentiment Analysis,NER,POS Tag,Text Summarization
-Languages: Python, R & SQL
-Packages:Scikit-Learn,Pandas,Numpy,NLTK,TextBlob,Opencv,Pytorch,Tensorflow,BeautifulSoup
-Web Development: Flask,Streamlit
-Cloud Deployment: Heroku,Git
-MLOPS: DVC
-Tools: Jupyter Notebook, Jupyter Lab,VS Code,Colab,Power BI,Tableau
-GenAI: RAG
-Other Hard Skills: Customer Segmentation, Data Mining
-Soft Skills:Easily Adaptable, Teamwork, Leadership, Analytical Skills, Skilled Multi-tasker, Problem
+- Deep Learning: ANN,RNN,Transformers,Bert,LSTM
+- Time Series: SARIMAX,ARIMAX,Exponential Smoothening,PROPHET
+- NLP:Sentiment Analysis,NER,POS Tag,Text Summarization
+- Languages: Python, R & SQL
+- Packages:Scikit-Learn,Pandas,Numpy,NLTK,TextBlob,Opencv,Pytorch,Tensorflow,BeautifulSoup
+- Web Development: Flask,Streamlit
+- Cloud Deployment: Heroku,Git
+- MLOPS: DVC
+- Tools: Jupyter Notebook, Jupyter Lab,VS Code,Colab,Power BI,Tableau
+- GenAI: RAG
+- Other Hard Skills: Customer Segmentation, Data Mining
+- Soft Skills:Easily Adaptable, Teamwork, Leadership, Analytical Skills, Skilled Multi-tasker, Problem
 Solving
 
 ## Tech Stack
