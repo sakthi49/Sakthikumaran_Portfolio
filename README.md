@@ -12,7 +12,7 @@
 
 
 ## 🛠 Skills
-Python, R, SQL , Power BI , Tableau , Statistics, Machine Learning , Deep Learning
+Python, R, SQL , Power BI , Tableau , Statistics, Machine Learning , Deep Learning, GenAI, MLOPS
 
 ## Tech Stack
 ![image](https://github.com/sakthi49/Sakthikumaran_Portfolio/assets/97421941/fb359acd-db1a-458d-b06a-38903a3319b0)
