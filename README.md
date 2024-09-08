@@ -20,4 +20,5 @@ Python, R, SQL , Power BI , Tableau , Statistics, Machine Learning , Deep Learni
 ## Projects
 1. SQLBOT(Chinook DB) https://github.com/sakthi49/SQL_BOT.git
 2. PDFChatbot
+3. US Visa Approval Status Prediction ( Model Building , MLOPS Pipeline creation with local Deployment using FASTAPI) https://github.com/sakthi49/MLOPS_Production_ready_project
 
